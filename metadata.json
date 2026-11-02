@@ -1,0 +1,5 @@
+{
+  "name": "小团点餐助手",
+  "description": "美团外卖AI餐饮推荐选择助手，根据您的口味与习惯智能推荐今日饮食。",
+  "requestFramePermissions": ["microphone"]
+}
